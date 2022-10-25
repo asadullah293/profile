@@ -1,0 +1,51 @@
+.prof{
+       color:rgb(30, 26, 26);
+       padding: 40px 45px ;
+       margin: 0 auto;
+       box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+       max-width: 400px;
+       margin: 2 auto;
+       text-align: center;
+       border-color: rgb(52, 8, 8);
+       border-style: dotted;
+       border-radius: 2%;
+       font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+ h2{
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+ }
+ a {
+  text-decoration: none;
+  font-size: 22px;
+  color: black;
+}
+
+
+.butt {
+  border: none;
+  outline: 1;
+  padding: 8px;
+  color: white;
+  background-color: rgb(72, 37, 37);
+  text-align: center;
+  cursor: pointer;
+  width: 50%;
+  font-size: 18px;
+  border-radius: 2%;
+  }
+  .imag{
+    color:rgb(30, 26, 26);
+    padding: 40px 46px ;
+    margin: 2 auto;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 400px;
+    margin: auto;
+    text-align: center;
+    border-color: aqua;
+    border-radius: 2%;
+  }
+  button:hover, a:hover {
+    opacity: 0.7;
+  }
+  
